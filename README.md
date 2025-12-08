@@ -1,7 +1,6 @@
 # SRMS-project
 Student Record Management System
 
- Student Management System (C Project)
 
 A menu driven Student Management System built using C language with file handling, multi-role login, and structured data management.
 This project was developed as part of an academic assignment to demonstrate practical implementation of structures, file operations, modular programming, and user authentication.
