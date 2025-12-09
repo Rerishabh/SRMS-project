@@ -57,7 +57,6 @@ gcc main.c -o managementapp
 ./managementapp
 ```
 
----
 
  Project Objective
 
@@ -68,14 +67,6 @@ To build a complete management system demonstrating:
 * Menu-driven program structure
 * Hands-on use of file operations in C
 
- Output Included
-
-This repository contains:
-
-* Source Code
-* Executable Output Screens
-* Role-wise Menus
-* Sample Inputs & Outputs
 
 
  
